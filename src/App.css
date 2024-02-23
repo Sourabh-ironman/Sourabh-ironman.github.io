@@ -1,0 +1,27 @@
+.App {
+  /* text-align: center; */
+  margin: 10px 500px;
+}
+
+.App form {
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+.rule-cmp-outer-div{
+  display: flex;
+  align-items: center;
+}
+.cross-div{
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.cross-img{
+  width:20px;
+  height: 20px;
+  cursor:pointer;
+  padding:10px;
+}
+.cross-div:hover{
+  background-color: aliceblue;
+}
